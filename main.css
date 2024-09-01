@@ -37,6 +37,12 @@ body {
     /* margin: 30px; */
 }
 
+/*Added  */
+#login a {
+    text-decoration: none;
+    color:  black;
+}
+/*Added  */
 #logo img {
     width: 100%;
     height: 100%;
